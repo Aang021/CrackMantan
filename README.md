@@ -1,8 +1,8 @@
 # feature login
-==> Menggunakan ID/Email facebook
+🔗 Menggunakan Email/ID facebook
 
 
-# Script Install
+# Install Script
 
 
 $ pkg install python2
